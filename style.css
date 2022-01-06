@@ -6,6 +6,7 @@ body{
 .first-section{
     display: flex;
     margin-left: 10%;
+    margin-bottom: 7%;
 }
 .half-width{
     width: 50%;
@@ -39,7 +40,7 @@ body{
     border-left-color: orange;
     line-height: 35px;
 }
-.first-section a{
+.anchor-style{
     text-decoration: none;
     font-size: 16px;
     border: 1px solid orange;
@@ -49,6 +50,7 @@ body{
     color: white;
     font-weight: 500;
 }
+
 #third-para{
     margin-top: 40px;
 }
@@ -66,7 +68,7 @@ body{
     display: flex;
     margin-left: 10%;
     border: 5px solid transparent;
-    margin-bottom: 7%;
+    margin-bottom: 9%;
 }
 .three-divs h2{
     font-family: 'Poppins';
@@ -109,7 +111,7 @@ body{
 .third-section{
     display: flex;
     margin-left: 10%;
-    margin-bottom: 5%;
+    margin-bottom: 7%;
 }
 .split-width{
     width: 35%;
@@ -132,16 +134,7 @@ body{
 #project-img{
     padding-left: 130px;
 }
-.third-section a{
-    text-decoration: none;
-    font-size: 16px;
-    border: 1px solid orange;
-    background-color: orange;
-    border-radius: 5px;
-    padding: 10px 35px;
-    color: white;
-    font-weight: 500;
-}
+
 
 .bonus-section h1{
     font-family: 'Poppins';
@@ -179,16 +172,7 @@ body{
     font-size: 18px;
     margin-bottom: 30px;
 }
-.app-width a{
-    text-decoration: none;
-    font-size: 16px;
-    border: 1px solid orange;
-    background-color: orange;
-    border-radius: 5px;
-    padding: 10px 35px;
-    color: white;
-    font-weight: 500;
-}
+
 footer{
     height: 180px;
     background-color: #0B0D17;
