@@ -21,7 +21,7 @@ body{
 #first-para{
     font-size: 18px;
     margin-bottom: 30px;
-    text-align: justify;
+    /* text-align: justify; */
 }
 .mission-tag{
     color: steelblue;
@@ -159,6 +159,7 @@ body{
 }
 .app-div img{
     width: 420px;
+    /* margin-right: 0; */
 }
 .app-image-width{
     width: 30%;
@@ -172,6 +173,7 @@ body{
     line-height: 20px;
     font-size: 35px;
     padding-left: 0px;
+    /* margin-left: 0px; */
 }
 .app-width p{
     font-size: 18px;
